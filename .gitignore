@@ -1,0 +1,2 @@
+# Ignorare i file .class dai commit
+*.class
